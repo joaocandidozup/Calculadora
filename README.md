@@ -28,7 +28,7 @@ Ao executar o programa, você será solicitado a inserir dois números e escolhe
 
 ![img.png](img.png)
 
-### Contrubuição
+## Contrubuição
 Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests para melhorias.
 
 Divirta-se calculando! 😊
